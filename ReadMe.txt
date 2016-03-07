@@ -1,5 +1,5 @@
-
-		READ ME
+                                              
+                                              READ ME
 
 1) CRYPTO TECHNIQUES
 
