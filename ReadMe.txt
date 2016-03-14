@@ -14,7 +14,7 @@ B) SIGNATURE
 
 (i) Open the 'sign' file containing java code.
 (ii) 'Run' the code for the ElGamalBob1.java(server) first.
-(iii) After the server is executed 'Run' the ElGamalAlice1.java(client). 
+(iii) After the server is executed 'Run' the ElGamalAlice1.java(client).
 (iv) Observe the output at the server console window.
 
 C) PUBLIC-KEY SYSTEM
