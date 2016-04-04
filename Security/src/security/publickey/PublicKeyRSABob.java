@@ -12,7 +12,7 @@ public class PublicKeyRSABob
 {
 	public static void main(String[] args) throws Exception
     {
-	    int port = 7999;                                        // initialize the port
+	    int port = 7999;                                        // initialize any arbitary port
 		ServerSocket s = new ServerSocket(port);            // create the new socket for communication with client
 		Socket client = s.accept();                         //  accepting communication with the client
 		
