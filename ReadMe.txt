@@ -18,7 +18,6 @@ B) SIGNATURE
 (iv) Observe the output at the server console window.
 
 C) PUBLIC-KEY SYSTEM
-
 (i) Open the 'publickey' file containing the java code.
 (ii) 'Run' the code 'PublicKeyRSBob.java'(server).
 (iii) 'Run' the code 'PublicKeyRSAlice.java'(client) next
